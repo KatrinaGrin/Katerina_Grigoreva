@@ -10,8 +10,8 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Python projects:</b>
+  - Financial audit project [https://github.com/KatrinaGrin/Python_financial_audit]
 
 
 <h2> 🤳 Connect with me:</h2>
