@@ -6,7 +6,7 @@
 
 <h4>💼 My work typically focuses on identifying financial and reputational risks, administrative process errors, revealing trends and anomalies, generating reports and insights, creating visualizations, and performing KPI analytics. The primary tools I use are Python, R, SQL, and Power BI.<h4> 
 
-<h4>As a Data Analyst in Legal Operations/ Insurance and a Master's student in Data Science at Georgia Tech, I'm working on this portfolio to showcase the analytical skills I've honed through personal projects, complementing the work I do at the company. While the school projects remain confidential, expect to see a diverse range of data analysis applications here!<h4>
+<h4>As a Data Analyst in Legal Operations/ Insurance and a Master's student in Data Science at Georgia Tech, I'm working on this portfolio to showcase the analytical skills I've honed through personal projects, complementing the work I do at the company. While the school projects remain confidential, expect to see a diverse range of data analysis applications while I'll be gradually working on them and adding them here!<h4>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
